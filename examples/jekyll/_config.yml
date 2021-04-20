@@ -6,7 +6,7 @@ description:
 ### Build settings ###
 
 url: ""
-baseurl: "/jekyll-with-tailwind"
+baseurl: ""
 
 exclude:
   - bin/
